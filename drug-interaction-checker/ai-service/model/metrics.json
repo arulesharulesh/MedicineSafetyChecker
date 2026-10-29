@@ -1,0 +1,13 @@
+{
+  "accuracy": 1.0,
+  "precision_weighted": 1.0,
+  "recall_weighted": 1.0,
+  "f1_weighted": 1.0,
+  "n_train": 143618,
+  "n_test": 47873,
+  "classes": [
+    "HIGH",
+    "MODERATE"
+  ],
+  "note": "Severity labels were inferred from interaction text for this Kaggle dataset."
+}
